@@ -7,6 +7,7 @@ function Food(){
         <ul>
             <li>Apple</li>
             <li>{f1}</li>
+            
             <li>{f2.toUpperCase()}</li>
         </ul>
     );
